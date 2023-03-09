@@ -1,0 +1,27 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+
+int a ;
+
+cout <<"Enter the Year  \n";
+
+cout <<":- ";
+
+cin>>a;
+
+if  (a%4 == 0) 
+
+
+cout<<"The year is leap Year ";
+
+else 
+
+cout<<"The year is not leap Year ";
+
+
+return 0;
+
+}

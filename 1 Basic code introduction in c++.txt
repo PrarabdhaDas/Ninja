@@ -1,0 +1,10 @@
+#include <iostream>
+//iostream as a headerfile...
+using namespace std;
+
+int main() {
+    
+    cout<<"My name is Prarabdha Das \n";
+    cout<<"My current university name is Adamas University";
+    return 0;
+}

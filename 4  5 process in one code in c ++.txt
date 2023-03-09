@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+    int a = 10;
+    int b = 5;
+    
+    cout <<"Sum is:-"<<a+b <<"\n";
+    cout <<"Subsraction is:-"<<a-b <<"\n";
+    cout <<"Division is:-"<<a/b <<"\n";
+    cout <<"Reminder is:-"<<a%b <<"\n";
+    cout <<"Multipication is:-"<<a*b <<"\n";
+    
+    return 0;
+}
